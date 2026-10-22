@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "checks": [
+    "SQL/Pandas category, monthly and customer parity",
+    "revenue minus cost reconciles to gross margin",
+    "customer shares sum to 100%",
+    "invalid rows quarantined",
+    "below-cost count reconciles",
+    "foreign keys checked"
+  ]
+}

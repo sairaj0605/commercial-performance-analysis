@@ -1,0 +1,3 @@
+line_id,customer_id,sku,sale_date,units,unit_price_paise,unit_cost_paise,reason
+16,143,P239,2026-09-17,0,115687,77553,non-positive units
+1,105,P102,2026-09-01,11,329091,212133,duplicate line ID
